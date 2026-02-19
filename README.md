@@ -103,3 +103,4 @@ All design tokens are in `src/styles/GlobalStyles.css` as CSS variables:
 ## 📞 Admin Access
 
 To access admin view, sign in with email: `admin@vaidyatanuja.com`
+# vaidya-tanuja
