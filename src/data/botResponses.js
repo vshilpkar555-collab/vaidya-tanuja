@@ -1,0 +1,19 @@
+// ─── AI CHATBOT RESPONSES ─────────────────────────────────────────────────────
+const BOT_RESPONSES = {
+  digestion:
+    'For optimal digestion, start your day with warm lemon water and ginger. Our Triphala Digest Guard has been used for millennia to balance all three doshas. Eating at consistent times and avoiding cold drinks with meals is essential in Ayurveda.',
+  sleep:
+    'Disturbed sleep often indicates excess Vata. A warm milk ritual with Ashwagandha and nutmeg before bed can transform your nights. Our Ashwagandha Sleep Rituals formulation (KSM-66) is clinically proven to reduce cortisol. Also try Abhyanga — sesame oil self-massage — before bathing.',
+  stress:
+    'Stress manifests differently across doshas. Brahmi is the supreme nervine tonic — it calms Vata anxiety while cooling Pitta\'s fire. Daily pranayama, particularly Nadi Shodhana (alternate nostril breathing), is deeply therapeutic. Our Brahmi Mind Elixir can support this journey.',
+  immunity:
+    'Immunity — or Ojas in Ayurveda — is built through consistent lifestyle practices. Our Chyawanprash Gold Reserve is a potent Rasayana with 40+ herbs. Daily sunlight, seasonal eating, and adequate sleep are foundational. Giloy (Guduchi) is particularly powerful for immune resilience.',
+  skin:
+    'Ayurveda sees skin as a mirror of internal health. Blood purification through Manjistha and nourishment through healthy fats are key. Pitta types need cooling, Vata types need moisture, Kapha types need light cleansing. Our Manjistha Skin Rasa addresses skin from the root.',
+  appointment:
+    'I\'d be happy to help you book a consultation with Vaidya Tanuja Jatav! You can schedule an in-person or online consultation through our booking page. Vaidya Ji offers Pulse Diagnosis (Nadi Pariksha), a comprehensive Prakriti Assessment, and personalized herbal prescriptions. Click the button below to proceed!',
+  default:
+    'Namaste 🙏 I am Dr. Tanuja AI, your Ayurvedic wellness guide. I can offer guidance on digestion, sleep, stress, immunity, skin health, and more. I can also help you book an appointment with Vaidya Ji. Please describe your health concern and I will provide time-tested Ayurvedic wisdom tailored to you.',
+};
+
+export default BOT_RESPONSES;
