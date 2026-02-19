@@ -3,7 +3,7 @@
 
 const IMAGES = {
   hero_bg:      'https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1600&q=80',
-  doctor:       'https://instagram.fjlr3-1.fna.fbcdn.net/v/t51.2885-19/602461487_17866383747518618_5450536261676446400_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fjlr3-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QGtlN97_ypzSHaGD6oYMFdCz2WNwpyNyKWU_KfglLPJ2ighscsjSZVUBVbBHoSmawEbfTjbgvWbvCach56BulTH&_nc_ohc=AqYKZy2qhF4Q7kNvwHL7qly&_nc_gid=C6MYLC0OogxgETFc1mlhgg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfutkVYV5VXf8jy-UCUG5Wbrv-KaFzcq_NgBYOzZpzqPrw&oe=699D3D68&_nc_sid=7a9f4b', // ← replace with real photo
+  doctor:       'https://vaidya-tanuja.vercel.app/dr-tanuja.jpg', // ← replace with real photo
   ayurveda_bg:  'https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800&q=80',
 
   // Product images — each matched to its actual primary herb
